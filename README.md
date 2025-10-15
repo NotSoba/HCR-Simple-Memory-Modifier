@@ -35,4 +35,4 @@ Ce projet a été une excellente pratique pour maîtriser :
     python hcr.py
     ```
 
-**🚨 Avertissement :** Ce script ne doit être utilisé que sur des jeux solo ou des environnements de test personnels. Toute tentative d'utiliser cette méthode sur des jeux multijoueurs ou des systèmes tiers est illégale et contraire à l'éthique. Ce projet est strictement à des fins éducatives.
+**🚨 Avertissement :** Ce script ne doit être utilisé que sur des jeux solo ou des environnements de test personnels. Toute tentative d'utiliser cette méthode sur des jeux multijoueurs vous risque un bannisement.
